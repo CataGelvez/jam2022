@@ -1,12 +1,27 @@
 EXTERNAL Name(charName)
 EXTERNAL Icon(charName)
+EXTERNAL BG(charName)
+EXTERNAL Box(charName)
 
 
 {Name("El Prota")}
 {Icon("ElProta")}
-¡Que Holandas!
+{BG("tierra")}
+{Box("salad")}
+
+Llevo 5 años en Bubblegum Games, nuestro estudio se especializa en cierto tipo de juegos… 
+
+Está bien, son juegos algo indecentes, pero pagan las cuentas y tienen políticas muy fuertes contra las relaciones amorosas dentro del estudio.
+
+Es lógico, con tantas cosas que tomamos de referencia, el ambiente se pone algo… Llevo 5 años en Bubblegum Games, nuestro estudio se especializa en cierto tipo de juegos… 
+
+Está bien, son juegos algo indecentes, pero pagan las cuentas y tienen políticas muy fuertes contra las relaciones amorosas dentro del estudio.
+
+Es lógico, con tantas cosas que tomamos de referencia, el ambiente se pone algo… 
 {Name("???")}
 {Icon("Personaje2")}
+{BG("aire")}
+{Box("cube")}
 ¡Hola! ¡Tanto tiempo! Qué casualidad encontrarnos en el supermercado, ¿no?
 {Name("El Prota")}
 {Icon("ElProta")}
